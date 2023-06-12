@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "Dibi Language Ressource Pack by PiggyPig"
+  },
+  "language": {
+    "LANG_COUNTRY": {
+      "name": "Dibi",
+      "region": "Dibistan",
+      "bidirectional": false
+    }
+  }
+}
