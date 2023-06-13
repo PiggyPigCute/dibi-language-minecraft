@@ -1,10 +1,15 @@
 
 Voici ce qui reste à traduire pour l'instant :
 
-(merci de compléter ce fichier au fur et à mesure)
-
 * de la ligne **10** à la ligne **43** (`narration` and `chat screen`)
-* de la ligne **86** à la ligne **95** (`gui.narration` and `translation.test`) 
 * de la ligne **212** à la ligne **898** (game options)
 * de la ligne **2762** à la fin
 * tous les mots entre \[crochets]
+
+
+Voici ce qui a été traduit pour l'instant :
+
+* de la ligne **5** à la ligne **10** (`narration`)
+* de la ligne **44** à la ligne **211** (`gui`, `tranlation.test`, `menu`, `optimizeWorld`, `selectWorld` and `createWorld`)
+* de la ligne **899** à la ligne **2761** (`block`, `item`, `instrument`, `container`, `structure_block`, `jigsaw_block`, `filled_map`, `entity`, `death`, `potion` `enchatement`)
+
