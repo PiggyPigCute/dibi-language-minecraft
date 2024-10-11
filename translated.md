@@ -11,7 +11,7 @@ Voici ce qui reste à traduire pour l'instant :
 * ✖️ `block.mc.banner` (519-1174)
 * ✅ `block` (1175 - 2122)
 * ✖️ `book` (2123-2133)
-* ✅ `tooHigh` (2134)
+* ✅ `build` (2134)
 * ✖️ `chat`+ (2135-2177)
 * ✅ `chat_screen` (2178-2180)
 * ✅ `clear` (2181-2192)
@@ -77,11 +77,7 @@ Voici ce qui reste à traduire pour l'instant :
 * ✖️ `subtitles`+ (5385-6135)
 * ✖️ `telemetry` (6136-6185)
 * ✖️ `title` (6186-6196)
-* ✖️ `translation` (6197-6203)
+* ✅ `translation` (6197-6203)
 * ✖️ `trim` (6204-6229)
 * ✖️ `tutorial` (6230-6245)
 * ✅ `upgrade` (6246)
-* 
-* ✖️ `chat`+ (2135-2177)
-* 
-* ✖️ `chat`+ (2135-2177)
